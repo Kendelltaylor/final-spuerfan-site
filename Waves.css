@@ -73,13 +73,13 @@ body {
 } 
 
 .week2pics {
-	content: url("images/Week2.jpg");
+	content: url("images/Week2.JPG");
 }
 .week3pics {
 	content: url("images/Week3.jpg");
 }
 .week4pics {
-	content: url("images/Week4.jpg");
+	content: url("images/Week4.JPG");
 } 
 
 .opaque:hover {
